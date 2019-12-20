@@ -1,0 +1,29 @@
+################################
+DiI_POPC_g13_40x_z8x_543nm_10uspx_215RPM-1.tif3_MG.png_1P_FIT.txt
+number of polarizations 2
+index of number of polarizations = -1
+
+################################
+DiI_POPC_g1_40x_z8x_950nm_20uspx_515RPM_2P_FIT.txt
+number of polarizations 2
+index of number of polarizations = -1
+
+################################
+DiI_POPC_g1_40x_z8x_950nm_20uspx_HOR_VER-1.tif3_MG.png_2P_FIT.txt
+number of polarizations 2
+index of number of polarizations = -1
+
+################################
+DiI_POPC_g1_40x_z8x_950nm_20uspx_HOR_VER.tif3_MG.png_2P_FIT.txt
+number of polarizations 2
+index of number of polarizations = -1
+
+1P data directory: /Users/pepa/Documents/3_publications/2018 - trivially simple orientation determinations/example data/processed images/1PPM
+rmax	1/rmax	log2(rmax)	phase/phase2	r^2
+
+0.2852 	3.5068 	-1.8101 	-0.2° 	0.991 
+rmax	1/rmax	log2(rmax)	phase/phase2	r^2	alpha0(deg)	sigma(deg)
+
+0.2071 	4.8289 	-2.2717 	-0.0284 	0.9925 	87	27
+0.2025 	4.9384 	-2.304 	-0.02983 	0.9896 	89	27
+0.2048 	4.8822 	-2.2875 	-0.03273 	0.99 	88	27

@@ -1,0 +1,16 @@
+Results of 1PPM fitting: 
+Fitting equation: y =c + log((1 + a*cos(2*x-2*b)  )/(1 - a*cos(2*x-2*b))  )/log(2)
+a = -0.5562
+b = -0.003464
+c = -0.02532
+
+offset = -0.02532
+B1P = -0.5562
+phase = -0.003464 (from fit)
+phase2 = 0.04363 (from user)
+
+number_of_polarizations = 2
+
+r(max) 	1/r(max) 	log2(r(max)) 	phase 	r² 
+0.2852 	3.5068 	-1.8101 	-0.2° 	0.991 
+--------------------------------------------------
