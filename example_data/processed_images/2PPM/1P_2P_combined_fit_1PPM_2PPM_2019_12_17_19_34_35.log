@@ -1,0 +1,17 @@
+2019/12/17, 19:34:35
+1PPM data directory: /Users/pepa/Documents/3_publications/2018 - trivially simple orientation determinations/example data/processed images/1PPM
+2PPM data directory: /Users/pepa/Documents/3_publications/2018 - trivially simple orientation determinations/example data/processed images/2PPM
+
+1PPM data statistics:
+log2(rmax) = 0±3.62 (mean ± 2*stderr (95% CI); min = -1.81, max = 1.8138, stdev = 2.5625)
+
+2PPM data statistics:
+alpha0 = 88°±1.2° (mean ± 2*stderr (95% CI); min = 87°, max = 89°, stdev = 1°)
+sigma = 27°±0° (mean ± 2*stderr (95% CI); min = 27°, max = 27°, stdev = 0°)
+log2(rmax) = -2.29±0.02 (mean ± 2*stderr (95% CI); min = -2.3044, max = -2.2717, stdev = 0.01636)
+
+Combined 1PPM, 2PPM statistics (bootstrapping):
+alpha0 = 67.2°±2.3° (mean ± 2*stderr (95% CI); min = 58°, max = 87°, stdev = 11.4757°)
+sigma = 6.5°±2.3° (mean ± 2*stderr (95% CI); min = 0°, max = 26°, stdev = 11.315°)
+
+

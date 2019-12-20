@@ -1,0 +1,19 @@
+Results of 2PPM fitting: 
+Fitting equation: y = d + log(     (1 + a*cos(2*x-2*c) + b*cos(4*x-4*c))         /           (1 - a*cos(2*x-2*c) + b*cos(4*x-4*c))       )/log(2)
+a = -0.7514
+b = 0.1439
+c = -0.0284
+d = 0.1444
+
+
+offset = 0.1444
+phase = -0.0284  (from fit)
+B2P = -0.7514
+C2P = 0.1439
+number_of_polarizations = 2
+
+r(max) 	1/r(max) 	log₂(r(max)) 	phase 	r² 
+0.2071 	4.8289 	-2.2717 	-0.0284 	0.9925 
+--------------------------------------------------
+alpha0 = 87°
+sigma = 27°
