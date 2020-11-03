@@ -1,5 +1,5 @@
 When processing the provided multiple-polarization image (dlmeGFP-c12-2P-multipol.tif), in order to obtain 
-files similar to those in in the 'processed files' directory, these values need to be entered into 
+files similar to those in in the 'processed_images' directory, these values need to be entered into 
 the dialog of the macro for processing images acquired with multiple polarizations ('m' macro):
 
 Starting polarization angle: 90
